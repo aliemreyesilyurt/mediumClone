@@ -1,0 +1,45 @@
+body {
+    font-family: 'Crete Round', serif;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #242526;
+}
+
+.btn-border-radius {
+    border-radius: 30px;
+}
+
+.text-fontsize-14 {
+    font-size: 14px;
+}
+
+.text-fontsize-10 {
+    font-size: 10px;
+}
+
+.bg-color-yellow {
+    background-color: rgb(255, 181, 44);
+}
+
+.color-green {
+    color: rgb(135, 189, 56);
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.aside-btn-attributes {
+    border-radius: 30px;
+    padding-inline: 25px;
+    color: rgb(24, 25, 26);
+    background-color: rgb(224, 228, 231);
+}
+
+.aside-list li > a {
+    text-decoration: none;
+    color: rgb(127, 131, 133);
+    padding-right: 10px;
+    
+}
